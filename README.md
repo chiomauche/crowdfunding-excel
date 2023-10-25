@@ -37,3 +37,18 @@ My task was to  organize and analyze a database of 1,000 sample projects to unco
 * I added up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, used a mathematical formula, to find the percentage of projects that were successful, failed, or canceled per goal range.
 
 * I created a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
+
+![Alt text](image.png)
+
+# Statistical Analysis
+* I created a new worksheet in my workbook, and created one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
+* I used Excel to evaluate the following values for successful campaigns, and then did the same for unsuccessful campaigns:
+   * The mean number of backers
+   * The median number of backers
+   * The minimum number of backers
+  * The maximum number of backers
+   * The variance of the number of backers
+   * The standard deviation of the number of backers
+
+* I used the data to determine if there is more variability with successful or unsuccessful campaigns
+
