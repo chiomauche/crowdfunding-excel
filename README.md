@@ -23,3 +23,17 @@ My task was to  organize and analyze a database of 1,000 sample projects to unco
     * I created a stacked-column pivot chart that can be filtered by country and parent category based on the table that I created.
 
     ![Alt text](<Screenshot 2023-10-25 111455.png>)
+
+* I created a new sheet with a pivot table that has a column of outcome, rows of Date Created Conversion, values based on the count of outcome, and filters based on parent category and Years.
+* I created a pivot-chart line graph that visualized the new table
+
+![Alt text](<Screenshot 2023-10-25 124701.png>)
+
+
+# Crowdfunding Goal Analysis
+
+* Using the COUNTIFS() formula, I counted how many successful, failed, and canceled projects were created with goals. I populated the Number Successful, Number Failed, and Number Canceled columns with these data points.
+
+* I added up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, used a mathematical formula, to find the percentage of projects that were successful, failed, or canceled per goal range.
+
+* I created a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
