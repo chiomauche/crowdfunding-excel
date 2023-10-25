@@ -10,4 +10,7 @@ My task was to  organize and analyze a database of 1,000 sample projects to unco
   * I used the conditional formatting to fill each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live.
 
   ![Alt text](<Screenshot 2023-10-25 110338.png>)
-  
+
+  * I created two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new, separate columns.
+    * Parent Category
+    ![Alt text](<Screenshot 2023-10-25 111538.png>)
