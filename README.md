@@ -12,8 +12,14 @@ My task was to  organize and analyze a database of 1,000 sample projects to unco
   ![Alt text](<Screenshot 2023-10-25 110338.png>)
 
   * I created two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new, separate columns.
-    * Parent Category
+* Parent Category
+     * I created a new sheet with a pivot table that analyzed my  initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
+     * I created a stacked-column pivot chart that can be filtered by country based on the table that I created.
+
     ![Alt text](<Screenshot 2023-10-25 111538.png>)
 
-    * Sub-Category
+* Sub-Category
+    * I created a new sheet with a pivot table that analyzed my initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
+    * I created a stacked-column pivot chart that can be filtered by country and parent category based on the table that I created.
+
     ![Alt text](<Screenshot 2023-10-25 111455.png>)
