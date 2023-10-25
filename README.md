@@ -52,3 +52,4 @@ My task was to  organize and analyze a database of 1,000 sample projects to unco
 
 * I used the data to determine if there is more variability with successful or unsuccessful campaigns
 
+![Alt text](<Screenshot 2023-10-25 131058.png>)
