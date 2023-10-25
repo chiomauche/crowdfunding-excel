@@ -14,3 +14,6 @@ My task was to  organize and analyze a database of 1,000 sample projects to unco
   * I created two new columns, one called Parent Category and another called Sub-Category, that use formulas to split the Category and Sub-Category column into the two new, separate columns.
     * Parent Category
     ![Alt text](<Screenshot 2023-10-25 111538.png>)
+
+    * Sub-Category
+    ![Alt text](<Screenshot 2023-10-25 111455.png>)
